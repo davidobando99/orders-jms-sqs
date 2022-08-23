@@ -1,0 +1,8 @@
+{
+  "goodOrderId": "4",
+  "customer": "David",
+  "goodsType":"countable",
+  "volumeLiquids": 0,
+  "amountItems": 3,
+  "orderTotal": 100000
+}
